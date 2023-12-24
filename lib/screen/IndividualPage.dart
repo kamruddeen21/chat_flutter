@@ -7,6 +7,7 @@ class IndividualPage extends StatefulWidget {
   const IndividualPage({Key? key, required this.chatModel}) : super(key: key);
 
   final ChatModel chatModel;
+  
 
 
   @override
